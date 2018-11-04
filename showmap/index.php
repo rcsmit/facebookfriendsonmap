@@ -26,7 +26,7 @@
                 height: 700px;
             }
         </style>
-        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBDi3YyZv0oFIBjTOf6KbeKIsBbPf_AOVI"></script>
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=__APIKEY___"></script>
         
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OverlappingMarkerSpiderfier/1.0.3/oms.min.js"></script>
 
