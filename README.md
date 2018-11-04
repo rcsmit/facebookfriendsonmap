@@ -9,6 +9,8 @@ Steps:
 4) import the data in your MySQL 
 5) showmap
 
+The code has to be adapted to your wishes, because I split up the facebookfriendslist into numbered files. Maybe I will make a one click solution one day.
+
 I also saved the file produced at step one to my harddisk. 
 By manipulating the html-file (don't ask me how, I think I replaced "<IMG SRC=" with xxx from the sourcefile, copied everything in a texteditor and did some manipulations, I could take the filenames of the profile photos. 
 
