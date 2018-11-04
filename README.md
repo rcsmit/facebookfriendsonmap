@@ -18,4 +18,24 @@ I loaded the CSV file in Excel and added the filenames. I had some problems beca
 
 Excel doesn't allow you to save a CSV like we need in step 3, so I used the macro given in https://support.microsoft.com/en-us/help/291296/procedure-to-export-a-text-file-with-both-comma-and-quote-delimiters-i
 
+At the end my table 'facebookfriends' looks like this. Take care, for column 4 (facebook-id) you need to choose for bigint, because they are large numbers!
+	1	idPrimaire sleutel	int(11)			
+	2	photo	varchar(55)		
+	3	NAME_WITH_ACCENTS	varchar(38)		
+	4	facebook_id	bigint(20)		
+	5	name	varchar(38)		
+	6	place	varchar(387)		
+	7	accuracy	varchar(16)		
+	8	formatted_address	varchar(68)		
+	9	google_place_id	varchar(27)		
+	10	input_string	varchar(387)		
+	11	latitude	decimal(18,15)			
+	12	longitude	decimal(21,17)			
+	13	number_of_results	int(11)			
+	14	postcode	varchar(7)		
+	15	status	varchar(2)		
+	16	type	varchar(77)		
+
+
+
 
