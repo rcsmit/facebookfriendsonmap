@@ -1,5 +1,5 @@
 # facebookfriendsonmap
-Not so easy. And forbidden by the ToS of Facebook. But I succeeded
+Not so easy. And forbidden by the ToS of Facebook. But I succeeded. It is a lot op copy, paste, trial and error, so I'm sure there will be a better way to program this. But the result counts doesn't it :)
 
 
 Steps:
